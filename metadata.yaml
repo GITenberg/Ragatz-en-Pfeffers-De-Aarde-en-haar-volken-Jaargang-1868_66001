@@ -1,0 +1,26 @@
+_repo: Ragatz-en-Pfeffers-De-Aarde-en-haar-volken-Jaargang-1868_66001
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2021-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '66001'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ragatz en Pfeffers
+
+  De Aarde en haar volken, Jaargang 1868'
+url: http://www.gutenberg.org/ebooks/66001
